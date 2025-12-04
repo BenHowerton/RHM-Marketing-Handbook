@@ -112,7 +112,7 @@
         <span class="pill">v1.1 &bull; Updated 2025-06-09</span>
       </div>
       <nav>
-        <a href="../COBE%20Marketing%20Playbook.md" target="_blank" rel="noopener">Open raw Markdown</a>
+        <a href="./COBE%20Marketing%20Playbook.md" target="_blank" rel="noopener">Open raw Markdown</a>
       </nav>
     </header>
 
@@ -128,7 +128,7 @@
     async function loadMarkdown() {
       const target = document.getElementById('content');
       try {
-        const response = await fetch('../COBE%20Marketing%20Playbook.md');
+        const response = await fetch('./COBE%20Marketing%20Playbook.md');
         if (!response.ok) throw new Error('Unable to load markdown file.');
         const text = await response.text();
         target.classList.remove('loading');
