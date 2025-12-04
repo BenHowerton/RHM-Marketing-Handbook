@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>COBE Marketing Playbook</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      color-scheme: light dark;
+    }
+    body {
+      font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #0f172a;
+      color: #e2e8f0;
+      line-height: 1.6;
+    }
+    .page {
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 32px 20px 48px;
+    }
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      margin-bottom: 24px;
+    }
+    h1 {
+      margin: 0 0 8px 0;
+      font-size: 32px;
+      letter-spacing: -0.02em;
+    }
+    .tagline {
+      margin: 0;
+      color: #cbd5e1;
+      font-weight: 500;
+    }
+    .pill {
+      display: inline-block;
+      padding: 6px 12px;
+      margin-top: 8px;
+      border-radius: 999px;
+      background: #0ea5e9;
+      color: #0b1220;
+      font-weight: 700;
+      font-size: 13px;
+      letter-spacing: 0.01em;
+    }
+    nav a {
+      color: #93c5fd;
+      margin-right: 14px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    #content {
+      background: #0b1220;
+      border: 1px solid #1e293b;
+      border-radius: 12px;
+      padding: 24px;
+      box-shadow: 0 16px 60px rgba(0, 0, 0, 0.35);
+    }
+    footer {
+      margin-top: 24px;
+      color: #94a3b8;
+      font-size: 14px;
+    }
+    .loading {
+      color: #cbd5e1;
+      font-style: italic;
+    }
+    .error {
+      color: #f97316;
+      font-weight: 700;
+    }
+    pre code {
+      white-space: pre-wrap;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0;
+    }
+    table th, table td {
+      border: 1px solid #1e293b;
+      padding: 8px 10px;
+    }
+    table th {
+      background: #111827;
+      color: #e2e8f0;
+      text-align: left;
+    }
+    a {
+      color: #38bdf8;
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <div>
+        <h1>COBE Marketing Playbook</h1>
+        <p class="tagline">Live Markdown rendered as a clean, accessible page for quick reference.</p>
+        <span class="pill">v1.1 &bull; Updated 2025-06-09</span>
+      </div>
+      <nav>
+        <a href="../COBE%20Marketing%20Playbook.md" target="_blank" rel="noopener">Open raw Markdown</a>
+      </nav>
+    </header>
+
+    <div id="content" class="loading">Loading playbook...</div>
+
+    <footer>
+      If the content does not appear, ensure this file is served over HTTP (e.g., <code>python -m http.server 8000</code>) and reload.
+    </footer>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    async function loadMarkdown() {
+      const target = document.getElementById('content');
+      try {
+        const response = await fetch('../COBE%20Marketing%20Playbook.md');
+        if (!response.ok) throw new Error('Unable to load markdown file.');
+        const text = await response.text();
+        target.classList.remove('loading');
+        target.innerHTML = marked.parse(text, { mangle: false, headerIds: true });
+      } catch (err) {
+        target.classList.remove('loading');
+        target.classList.add('error');
+        target.textContent = `Error loading playbook: ${err.message}. You can still open the Markdown file directly above.`;
+      }
+    }
+    loadMarkdown();
+  </script>
+</body>
+</html>

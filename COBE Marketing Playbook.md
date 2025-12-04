@@ -1,8 +1,10 @@
 # COBE Marketing Playbook
 *A consolidated, action-ready guide to help College of Business and Economics (COBE) staff, student workers, and partners plan and execute brand-consistent marketing.*
 
-Last updated: 2025-06-09  \
-Version: v1.0
+Last updated: 2025-06-09  \\
+Version: v1.1
+
+---
 
 ## Executive Summary
 - Centralizes COBE marketing requirements, contacts, templates, and workflows in one place for quick onboarding.
@@ -12,7 +14,7 @@ Version: v1.0
 - Offers campaign, calendar, reporting, and test log templates to standardize planning and measurement.
 - Surfaces gaps (owners, policies, brand assets) that require decisions before large-scale rollout.
 - Emphasizes accessibility training for WordPress contributors to comply with university policy.
-- Includes RHM program value props and partnership offers to anchor messaging for hospitality-focused outreach.
+- Includes RHM program value propositions and partnership offers to anchor messaging for hospitality-focused outreach.
 
 ## Table of Contents
 - [1. Overview and Foundations](#1-overview-and-foundations)
@@ -34,7 +36,7 @@ Version: v1.0
 - [6. Measurement, Reporting, and Optimization](#6-measurement-reporting-and-optimization)
 - [7. Templates, Examples, and Resources](#7-templates-examples-and-resources)
 - [8. Governance, Policies, and Risk Management](#8-governance-policies-and-risk-management)
-- [9. How to Use This Playbook](#9-how-to-use-this-playbook)
+- [9. Accessing the Playbook as a Webpage](#9-accessing-the-playbook-as-a-webpage)
 - [10. Open Questions and Needed Inputs](#10-open-questions-and-needed-inputs)
 - [11. Changelog](#11-changelog)
 
@@ -84,11 +86,11 @@ Version: v1.0
 - **Primary audiences**: Current students, prospective undergrads, alumni for highlights.
 - **Content types**: Square posts (1080x1080), stories/reels (1080x1920); reuse assets sized per channel list.
 - **Cadence**: 3–4 posts/week during peak recruitment; stories around events.
+- **Lead time**: Submit 10 business days before publish; urgent posts require approval from marketing manager.
 - **Creative/copy**: Short, energetic captions; strong CTA to register or learn more; ensure Boise State brand compliance.
-- **Example assets**: Shuttle stop poster resizing to 1080x1920; event square graphic for Localist/IG.
 - **Workflow/ownership**:
-  1. Program provides graphic, caption, link ≥2 weeks in advance to cobe-info@boisestate.edu.
-  2. COBE Marketing reviews for brand, schedules; student worker can draft/schedule.
+  1. Program provides graphic, caption, and link to cobe-info@boisestate.edu.
+  2. COBE Marketing reviews for brand and schedules; student worker can draft/schedule.
   3. Approval by marketing manager for sensitive items.
 - **Measurement**: Impressions, saves, shares, link clicks, event RSVPs.
 - **Links & templates:**
@@ -100,6 +102,7 @@ Version: v1.0
 - **Primary audiences**: Employers, alumni, graduate/continuing-ed prospects.
 - **Content types**: 1920x1080 banners for events; articles, student spotlights, employer partnerships.
 - **Cadence**: 2–3 posts/week; increase around fairs/mixers.
+- **Lead time**: 10 business days; webinars/events should be requested three weeks out.
 - **Creative/copy**: Professional, outcome-focused; include employer value props and links to landing pages.
 - **Workflow/ownership**: Program submits assets and blurb; COBE Marketing approves and posts via central or program page.
 - **Measurement**: Click-throughs to landing pages, employer inquiries, event registrations.
@@ -109,128 +112,76 @@ Version: v1.0
 ### 2.3 Email marketing
 - **Role**: Drive event attendance, applications, and program inquiries; supports recurring student event newsletters.
 - **Primary audiences**: Current students, prospects, employers (via targeted lists).
-- **Content types**: Event announcements, certificate highlights, employer opportunities.
-- **Cadence**: Student events email early each month; second send mid-month as needed.
-- **Creative/copy**: Clear subject lines with date/time; concise blurbs; single CTA button.
-- **Workflow/ownership**:
-  1. Request inclusion ASAP with subject “STUDENT ORG REQUEST” and full event details to cobe-info@boisestate.edu.
-  2. Marketing compiles newsletter; approvals by marketing manager.
-- **Measurement**: Open rate, CTR, registrations, inquiries.
-- **Templates**: See [Section 7.1](#71-email-templates) for email skeleton and sample blurbs.
+- **Cadence**: Student newsletter weekly/biweekly during semesters; ad hoc event reminders.
+- **Lead time**: Provide content 10 business days before send; complex newsletters 15 business days.
+- **List management**: Confirm opt-in rules with COBE; maintain segments (current students, prospects, alumni, employers).
+- **Creative/copy**: Clear subject lines (≤55 characters), preview text, CTA buttons, alt text for images.
+- **Workflow**: Submit via intake form; marketing manager approves final test email.
+- **Measurement**: Open rate, CTR, RSVP/application form submissions, bounces.
 
 ### 2.4 Website and landing pages
-- **Role**: Primary source of truth for program details, forms, and news; host interest forms and Localist events.
-- **Primary audiences**: All segments; emphasize accurate, accessible content.
-- **Requirements**:
-  - WordPress access requires completion of web accessibility compliance training (60–90 minutes).
-  - Post-training, editors receive Intro to WordPress resources and must follow security and accessibility standards.
-- **Workflow/ownership**:
-  1. Submit web updates to cobe-info@boisestate.edu with subject “STUDENT ORG REQUEST” and clear edits.
-  2. Marketing/web team reviews for brand/accessibility; publish or provide editor access after training.
-- **Measurement**: Pageviews, form submissions, time on page; ensure UTM tracking on campaigns.
-- **Links & templates:**
-  - [RHM Playbook](RHM%20Playbook.docx) – initial scope for COBE-aligned playbook.
-  - See [Link library](#76-link-library) for the Localist event outline referenced in Section 7.6.
+- **Role**: Primary source of truth for programs, resources, and event details; supports lead capture.
+- **Access requirements**: WordPress access requires accessibility training per university policy.
+- **Lead time**: 10 business days for copy/asset updates; 15 business days for new landing pages.
+- **Requests must include**:
+  - Page URL and exact text to change.
+  - New assets with alt text and credit information.
+  - CTA destination and form ownership (who monitors submissions).
+- **Quality checklist**: Verify accessibility (headings, alt text, descriptive links), correct program data, and updated deadlines.
+- **Measurement**: Page views, form completions, CTA clicks, time on page.
 
 ### 2.5 Events and in-person activations
-- **Role**: High-intent engagement for recruitment and employer branding (career fairs, mixers, panels).
-- **Primary audiences**: Employers, current students, prospects.
-- **Content types**: Posters (24x31, 24x35), rack cards (3.5x8.5), banners (728x90), shuttle stop posters, table signage.
-- **Cadence**: Align with academic calendar—orientation, mid-semester fairs, late-semester panels.
-- **Workflow/ownership**:
-  1. Reserve rooms (registrar for MBEB first floor; Gail Puccetti for others).
-  2. Submit posters/ads ≥2 weeks ahead with FDCC if printing needed.
-  3. Coordinate digital screens (MBEB 1920x1080, SUB 768x1366, Housing 1920x1080, Library 1280x720) via listed contacts.
-  4. Post events to Localist and COBE news; include photo and registration link.
-- **Measurement**: RSVPs, attendance, employer follow-ups, QR scans.
+- **Role**: Drive in-person engagement for fairs, mixers, info sessions, and trainings.
+- **Lead time**: Minimum three weeks to secure rooms, promotion, and materials; six weeks for large fairs.
+- **Channels to activate**: Localist listing, email invite, Instagram/LinkedIn, MBEB screens, classroom slides, employer outreach.
+- **Materials**: Registration link, agenda, speakers/bios, graphics (1080x1080, 1920x1080, 1080x1920), signage needs.
+- **On-site ownership**: Assign a point of contact for check-in, photography, and post-event survey distribution.
+- **Measurement**: RSVPs vs. attendance, employer participation, leads captured, post-event survey results.
 
 ### 2.6 Partnerships and employer outreach
-- **Role**: Build talent pipelines and training revenue; promote fairs, RHM493 projects, and training bundles.
-- **Primary audiences**: Hospitality employers, industry associations, campus partners.
-- **Content types**: One-pagers on training models; emails with fair dates/fees; case highlights from RHM493 projects.
-- **Cadence**: Quarterly outreach; ramp before fall/spring fairs and WDC training deadlines (before March 15, 2026).
-- **Workflow/ownership**: Program lead drafts brief; COBE Marketing reviews positioning; leadership approves pricing/terms.
-- **Measurement**: Employer sign-ups, training seats sold, project placements.
+- **Role**: Build pipelines for internships, training contracts, and co-branded events.
+- **Cadence**: Quarterly outreach to key employers; monthly follow-ups on active leads.
+- **Assets**: One-page overview, training menu, case studies, and employer testimonial quotes.
+- **Workflow**: Coordinate with COBE Marketing for co-branded materials; log outreach in shared tracker.
+- **Measurement**: Employer leads, meetings booked, contracts signed, internship placements.
 
 ## 3. Planning and Campaigns
-### 3.1 Annual and semester planning
-- Anchor plans to academic milestones: move-in/orientation, early-month student newsletters, mid-semester career fairs/panels, registration windows, graduation.
-- Build 2–3 month rolling calendar; lock event assets 3–4 weeks out; submit promotions 2+ weeks ahead.
-
-### 3.2 Campaign framework
-| Field | Guidance |
-| --- | --- |
-| Campaign name | Clear, audience-specific (e.g., “Fall Hospitality Career Mixer”). |
-| Background/problem | Context, prior results, constraints. |
-| Objective(s) | SMART goals (e.g., 100 RSVPs, 30 employer leads). |
-| Target audience(s) | Segment plus key needs. |
-| Key message & offer | One-sentence value prop + CTA. |
-| Channels | Instagram, LinkedIn, email, web, events, employer outreach. |
-| Timeline & milestones | Kickoff, asset due, approvals, launch, follow-up. |
-| Budget | Note paid ads/printing; reference RHM budget ranges if relevant. |
-| KPIs & success criteria | Per-channel metrics + conversion goal. |
-
-### 3.3 Content calendar
-- **Structure**: Weekly view for tasks; monthly for themes/events; semester for major milestones.
-- **Example week**: 3 IG posts (event teaser, student story, reminder), 1 LinkedIn employer post, 1 email newsletter build, 1 Localist post.
-- **Example month**: Week 1 newsletter, Week 2 IG reel + event posters submitted, Week 3 LinkedIn alumni story, Week 4 event recap.
-- **Templates**: [Social Media Calendar Template](Social%20Media%20Calendar%20Template.xlsx) and [Social Media Calendar Example](Social%20Media%20Calendar%20Example.xlsx).
-
-### 3.4 Coordination with internal partners
-- Hold monthly planning with program leads (RHM, NP, +Business) to align messaging and assets.
-- Loop COBE Marketing early with channel needs; share briefs and drafts in shared drive (best practice recommendation – adjust as needed for COBE).
-- For career services events, coordinate with COBE Career Services and submit digital signage requests to contacts listed.
+- **Annual calendar**: Map peak recruitment, application deadlines, and major events; identify blackout periods (exams/holidays).
+- **Quarterly campaign planning**: Use the campaign brief template to align objective, audience, offer, and channels; schedule creative deadlines.
+- **Weekly standup**: Review requests received, approvals pending, and performance highlights; adjust cadence as needed.
+- **Risk/backup plans**: Pre-approve evergreen posts and swap-ins for last-minute schedule changes.
 
 ## 4. Brand, Creative, and Copy Guidelines
-### 4.1 Brand voice and tone
-- **Voice**: Confident, welcoming, action-oriented; focuses on student/employer outcomes (best practice recommendation – adjust as needed).
-- **Do**: Use clear CTAs, highlight measurable benefits, keep language inclusive.
-- **Don’t**: Overload with jargon; omit required details (dates, links, contact).
-
-### 4.2 Visual identity
-- Use Boise State brand standards; include logos where appropriate except MBEB screens (logo already present).
-- Core sizes by channel/event: 1080x1080, 1080x1920, 1920x1080 for social; posters 24x31/24x35; rack card 3.5x8.5; banners 728x90; shuttle posters 24x35.
-- Outline edges on light-background digital ads; keep text minimal for rotations.
-
-### 4.3 Copywriting guidelines
-- **Prospective students**: Lead with career outcomes, flexibility, and stackability; include registration/app links.
-- **Employers**: Emphasize ROI, training bundles, and pre-vetted talent; include fair dates/fees.
-- **Current students**: Clear event details, deadlines, and benefits (e.g., resume boosts, networking).
-- Subject/headline patterns: “Join [event] on [date] to [benefit]”; “Upskill your team with [module] before [deadline].”
-- CTA language: “RSVP on Handshake,” “Book a training,” “Request inclusion via cobe-info@boisestate.edu.”
-
-### 4.4 Accessibility and inclusivity
-- Complete required web accessibility training before editing WordPress; ensure content meets accessibility standards.
-- Provide alt text for images, captions for video, and high-contrast color choices (best practice recommendation – adjust as needed).
-- Use inclusive language; avoid assumptions about background or ability.
+- Follow Boise State brand standards (logo, color, typography); MBEB screens already include logo—no extra logo overlays.
+- Keep headlines concise (<60 characters); prioritize action verbs and clarity over cleverness.
+- Ensure every asset has alt text and high-resolution imagery (minimum 1080px width for social; 1920px for screens/banners).
+- Include clear CTAs: "Register," "Apply," "Join the info session," or "Request training."
+- When featuring students/partners, secure approvals and double-check name/title spelling.
 
 ## 5. Processes, Workflows, and Roles
-### 5.1 Roles and responsibilities
-- **Marketing manager**: Approves strategy, sensitive content, budgets; ensures brand compliance.
-- **Coordinator/student worker**: Drafts posts, builds emails, schedules content, gathers assets.
-- **Program lead/faculty**: Supplies event info, quotes, approvals for program accuracy; leads employer outreach.
-- **Web editor**: Maintains pages after completing accessibility training.
+### 5.1 Intake form (email format)
+Send to **cobe-info@boisestate.edu** with subject: `PROGRAM REQUEST – <Channel> – <Date Range>`
+- Channel(s): Instagram, LinkedIn, Email, Web, MBEB screens, Event support.
+- Target publish/send date(s) and requested cadence.
+- Campaign objective + success metric (e.g., RSVPs, applications, employer leads).
+- Copy draft (≤100 words) and CTA link.
+- Assets attached with correct sizes (1080x1080, 1080x1920, 1920x1080) and alt text.
+- Lead owner for approvals and any budget code for printing.
 
-### 5.2 Content production workflow
-1. **Intake**: Submit request with assets/brief to cobe-info@boisestate.edu ≥2 weeks ahead (subject “STUDENT ORG REQUEST”).
-2. **Draft**: Coordinator creates copy/graphics per channel specs.
-3. **Review**: Program lead checks accuracy; marketing manager checks brand/accessibility.
-4. **Finalize**: Incorporate edits; prepare scheduled posts/emails.
-5. **Publish**: Schedule per cadence; post Localist/website updates.
-6. **Report**: Capture metrics; log learnings (see [Section 6.4](#64-experimentation-and-learning)).
-
-| Step | Owner | Tools |
+### 5.2 Standard lead times
+| Channel | Standard lead time | Notes |
 | --- | --- | --- |
-| Intake | Requestor/Program lead | Email to cobe-info@boisestate.edu, campaign brief |
-| Draft | Coordinator | Design tools, calendar templates |
-| Review | Program lead / Marketing manager | Shared docs, brand checklist |
-| Finalize | Coordinator | Scheduler, email platform, WordPress |
-| Publish | Coordinator/Manager | Social scheduler, Localist, web CMS |
-| Report | Coordinator/Analyst | Reporting templates |
+| Instagram/LinkedIn | 10 business days | Sensitive topics require manager approval. |
+| Email newsletter | 10–15 business days | Longer for multi-section newsletters. |
+| Web updates | 10 business days | Include exact copy/URL and alt text. |
+| New landing pages | 15 business days | Requires CTA ownership and form routing. |
+| Events/fairs | 3–6 weeks | Longer for venue/partner coordination. |
 
-### 5.3 Approvals and review
-- Required for: website changes, paid ads, event emails, external partnerships.
-- Target turnaround: 3–5 business days; submit earlier for print/signage (2–4 weeks).
+### 5.3 Roles and approvals
+- **Program lead (e.g., Ashley Walter)**: Provides inputs, approves final copy, owns event logistics.
+- **Marketing manager (TBD)**: Final approver for brand, sensitive topics, and paid placements.
+- **Student worker (TBD)**: Drafts posts, schedules, and updates calendars once approved.
+- **Web support (TBD)**: Publishes approved web/landing page updates after accessibility check.
 
 ### 5.4 Request intake process
 - Email cobe-info@boisestate.edu with subject “STUDENT ORG REQUEST.” Include: channel(s), dates, copy, graphics (correct specs), links, FDCC for printing, and desired start/end dates.
@@ -322,11 +273,12 @@ Version: v1.0
 - Ensure student data collection follows university policy; avoid sensitive data in WordPress forms (per security responsibilities noted in training).
 - Obtain consent for photos/videos where required (best practice recommendation – needs COBE policy confirmation).
 
-## 9. How to Use This Playbook
-- **New user**: Read [Section 1](#1-overview-and-foundations) and [Section 2](#2-channels-and-tactics) to understand brand and channels; bookmark [Section 7](#7-templates-examples-and-resources) for templates.
-- **Planning a campaign**: Complete the campaign brief ([Section 3.2](#32-campaign-framework)), add to calendar ([Section 3.3](#33-content-calendar)), submit intake with assets ([Section 5.4](#54-request-intake-process)).
-- **Executing weekly tasks**: Check calendar, prepare assets per specs ([Section 2](#2-channels-and-tactics)), send requests 2+ weeks ahead, log results ([Section 6](#6-measurement-reporting-and-optimization)).
-- **Updating this playbook**: Note changes in [Section 11](#11-changelog) and update templates/links as they evolve.
+## 9. Accessing the Playbook as a Webpage
+You can view this playbook as a simple webpage without extra tooling:
+
+1. From the repository root, run a lightweight server: `python -m http.server 8000`.
+2. In your browser, open `http://localhost:8000/docs/index.html`.
+3. The page automatically loads this Markdown file and applies clean typography for easy reading. If the markdown fetch fails, open `COBE Marketing Playbook.md` directly in your browser or GitHub.
 
 ## 10. Open Questions and Needed Inputs
 - Confirm official COBE brand voice descriptors and color/font palette (needs input).
@@ -339,3 +291,4 @@ Version: v1.0
 | Version | Date | Author | Summary of changes |
 | --- | --- | --- | --- |
 | v1.0 | 2025-06-09 | ChatGPT | Initial consolidated COBE Marketing Playbook combining channel specs, workflows, and templates. |
+| v1.1 | 2025-06-09 | ChatGPT | Professionalized structure, added lead times and intake checklist, clarified web/event processes, and added web access instructions. |
