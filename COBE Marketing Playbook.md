@@ -1,8 +1,8 @@
 # COBE Marketing Playbook
 *A consolidated, action-ready guide to help College of Business and Economics (COBE) staff, student workers, and partners plan and execute brand-consistent marketing.*
 
-Last updated: 2025-06-09  \\
-Version: v1.1
+Last updated: 2026-01-28  \\
+Version: v1.2
 
 ---
 
@@ -35,6 +35,14 @@ Version: v1.1
 - [5. Processes, Workflows, and Roles](#5-processes-workflows-and-roles)
 - [6. Measurement, Reporting, and Optimization](#6-measurement-reporting-and-optimization)
 - [7. Templates, Examples, and Resources](#7-templates-examples-and-resources)
+  - [7.1 Email templates](#71-email-templates)
+  - [7.2 Social media templates](#72-social-media-templates)
+  - [7.3 Campaign brief template](#73-campaign-brief-template)
+  - [7.4 Content calendar template](#74-content-calendar-template)
+  - [7.5 Reporting templates](#75-reporting-templates)
+  - [7.6 Link library](#76-link-library)
+  - [7.7 Contact list (needs input)](#77-contact-list-needs-input)
+  - [7.8 RHM marketing budget (2025)](#78-rhm-marketing-budget-2025)
 - [8. Governance, Policies, and Risk Management](#8-governance-policies-and-risk-management)
 - [9. Accessing the Playbook as a Webpage](#9-accessing-the-playbook-as-a-webpage)
 - [10. Open Questions and Needed Inputs](#10-open-questions-and-needed-inputs)
@@ -261,6 +269,25 @@ Send to **cobe-info@boisestate.edu** with subject: `PROGRAM REQUEST – <Channel
 | TBD | Student worker | Drafting/scheduling | Needs input |
 | TBD | Web support | WordPress access/training | Needs input |
 
+### 7.8 RHM marketing budget (2025)
+**Requested 2025 marketing budget summary**
+| Season | Total |
+| --- | --- |
+| Spring | $1,670 |
+| Summer | $140 |
+| Fall | $280 |
+| **Annual total** | **$2,090** |
+
+**Line items**
+| Channel | Rate | Unit | Spring total | Summer total | Fall total | Annual total | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Student Media - Blueprint Summer Magazine | $450 | per/Period | $450 | $0 | $0 | $450 | Half-page print ad in April; distributed during graduation, summer orientation, and fall move-in. |
+| Student Media - Arbiter (online banner advertisement) | $400 | per/Month | $400 | $0 | $0 | $400 | 728×90 px banner; runs during spring issue dates. |
+| Shuttle Stops | $14 | per/Poster | $280 | $0 | $0 | $280 | Print 10 posters for Blue/Orange bus stop crossover points; update creative for seasonal use. |
+| Digital Screens on campus | N/A | per/Screen | $0 | $0 | $0 | $0 | SUB or Library screens are free with existing COBE access. |
+| Capital BLVD Tabling | N/A | per/Event | $0 | $0 | $0 | $0 | Tabling in spring and early fall. |
+| Social Media Advertisement - Meta (IG) | $140 | per/Month | $140 | $140 | $280 | $560 | $5/day targeting Boise residents and BSU students; pause during summer exodus. |
+
 ## 8. Governance, Policies, and Risk Management
 ### 8.1 Policy alignment
 - Follow Boise State web accessibility requirements; complete training before WordPress access.
@@ -292,3 +319,4 @@ You can view this playbook as a simple webpage without extra tooling:
 | --- | --- | --- | --- |
 | v1.0 | 2025-06-09 | ChatGPT | Initial consolidated COBE Marketing Playbook combining channel specs, workflows, and templates. |
 | v1.1 | 2025-06-09 | ChatGPT | Professionalized structure, added lead times and intake checklist, clarified web/event processes, and added web access instructions. |
+| v1.2 | 2026-01-28 | ChatGPT | Added RHM marketing budget summary and line-item breakdown. |
